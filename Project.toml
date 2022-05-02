@@ -1,0 +1,4 @@
+name = "SIGLib"
+uuid = "161d9817-d0e2-45e8-a2dc-dff91d9429d3"
+authors = ["cnaak "]
+version = "0.1.0"
